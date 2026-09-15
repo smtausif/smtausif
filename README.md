@@ -8,8 +8,8 @@ I enjoy building scalable web applications, backend systems, and user-focused so
 
 ## Professional Experience
 
-### IT Support Assistant (Remote) | BigBigi Ads | San Jose, USA
-**August 2026 – Present**
+### IT Support Assistant (Remote) | [BigBigi Ads](https://bigbigiads.com/)  | San Jose, USA
+**June 2026 – Present**
 
 - Provide technical support for hardware, software, and network-related issues.
 - Install, configure, and maintain workstations, peripherals, and business applications.
@@ -21,7 +21,7 @@ I enjoy building scalable web applications, backend systems, and user-focused so
 
 ---
 
-### Full Stack Developer Intern (Co-op) | SkillShift+ | Ontario, Canada
+### Full Stack Developer Intern (Co-op) | [SkillShift+](https://skillsshift.ca/) | Ontario, Canada
 **April 2025 – August 2025**
 
 - Led the development of an educational platform featuring **35+ structured learning programs**, role-based dashboards, progress tracking, and certificate management.
